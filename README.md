@@ -1,4 +1,4 @@
 # devops-demo
 
-devops kubernetes demo project
+tekton或argocd笔记使用
 
